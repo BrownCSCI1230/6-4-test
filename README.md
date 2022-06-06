@@ -1,22 +1,43 @@
-# Lab 11: FBOs
-This is a placeholder readme.
-## Setup
-## Intro
-## Part 1
-Descriptive text here
+# Lab 15: Labrador Giveaways
 
-My favorite equation!
+## Setup
+
+1. Accept the [GitHub Classroom assignment](https://google.com)!
+2. 
+Open Qt Creator and select “Open Project” and find the lab##.pro file in your lab## directory.
+
+On the Configure Project screen, make sure Desktop is selected and select “Configure Project.”  Once everything is configured, go to the Projects menu on the left and make sure that the Shadow build option is **not** checked.
+
+## Intro
+
+In this lab, you’ll learn how to write a lab handout! Specifically, you will:
+
+1. List
+2. The
+3. Goals
+
+## Part 1
+
+In part 1, you will learn how to write equations
+
+Add necessary equations in latex like follows:
 
 $$
   y = mx+b
 $$
 
->Set this text off to the side!
->
->So cool!
+### Task 1:
+
+Write your own equation below me!
+
+## Part 2
+
+In this section, you will learn how to hide hints for students to read!
 
 <details>
-  <summary>Hint!</summary>
+  <summary>Open me for a hint!</summary>
+
+  Bonus info can go in here!
   
   - bullet
   - points
@@ -36,12 +57,16 @@ $$
   
 </details>
 
-## Part 2
+### Task 2:
 
-### Task 1:
-Wow I can't believe there have been to tasks yet! Get to work!
+Write a hint on how to make a cool lab handout below this!
 
 ## End
+
+>Didn’t you learn so much from this lab?
+>
+>So cool!
+
 Go get checked off by a TA!
 
 Here are some questions to answer:
